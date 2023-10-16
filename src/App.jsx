@@ -1,4 +1,4 @@
-import Table from '../home/table'
+import Table from './components/table'
 import './App.css'
 
 function App() {
