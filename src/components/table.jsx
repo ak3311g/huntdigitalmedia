@@ -34,7 +34,7 @@ export default function Table() {
 
     return (
         <>
-            <div className="w-[90vw] text-center overflow-scroll">
+            <div className="w-[100vw] text-center overflow-scroll">
                 <table className="w-full">
                     <tr className="text-center">
                         <th className="border-[1px] border-black min-w-[80px]">Action</th>
